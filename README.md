@@ -15,7 +15,7 @@ graph TD
     I --> K[Niveles en sangre: Indicador de salud metabólica];
     I --> L[Valores normales varían por edad y sexo];
     I --> M[Hipertrigliceridemia: Riesgo cardiovascular];
-    I --> N[Lipoproteínas transportan triglicéridos (VLDL, quilomicrones)];
+    I --> N[PruebaN];
     I --> O(Aspectos Estructurales);
     O --> P[Estructura triéster];
     P --> Q[Glicerol: Molécula de 3 carbonos con grupos hidroxilo];
