@@ -22,7 +22,7 @@ graph TD
     Q --> R[Ácidos Grasos: Cadenas hidrocarbonadas con grupo carboxilo];
     R --> S[Variedad en longitud y saturación de ácidos grasos];
     S --> T(Entrega y Exposición (Máximo 5 minutos));
-    T --> U[Enfocarse en la función y relevancia para la salud];
+    T --> U[PruebaU];
     T --> V[Utilizar ejemplos de la dieta y el cuerpo];
     T --> W[Explicar brevemente la base bioquímica y la estructura];
     T --> X[Mencionar la importancia de los niveles en sangre];
