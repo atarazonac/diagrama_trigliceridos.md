@@ -5,7 +5,7 @@
 graph TD
     A[Inicio: Triglicéridos] --> B(Función Principal: Almacenamiento de Energía);
     B --> C{Base Bioquímica: Esterificación del Glicerol};
-    C --> D[ Glicerol + 3 Ácidos Grasos--(Enzimas)-->Triglicérido + 3 H₂O ];
+    C --> D[Glicerol + 3 Ácidos Grasos--(Enzimas)-->Triglicérido + 3 H₂O ];
     D --> E(Aplicaciones Biológicas);
     E --> F[Reserva energética a largo plazo];
     E --> G[Aislamiento térmico];
